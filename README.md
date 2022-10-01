@@ -9,7 +9,7 @@
 
 ## GIF
 
-<img src="https://github.com/prasanna892/analog-clock-using-PyQt5/blob/main/analog_clock.gif" />
+<img src="https://github.com/prasanna892/Analog-Clock-Using-Pygame-Module_Python/blob/main/Video.gif" />
 
 ## Contact 
 
